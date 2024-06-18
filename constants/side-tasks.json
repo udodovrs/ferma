@@ -1,0 +1,35 @@
+[
+    {
+        "name":"Продать молоко",   
+        "level": 1,
+        "description": "что то там",
+        "condition": {
+            "totalCrosses" : 1000
+        },
+        "foto_id": "",
+        "award": {"money": 5000},
+        "index": 0
+    },
+    {
+        "name":"Продать клевер",   
+        "level": 1,
+        "description": "2 что то там",
+        "condition": {
+            "totalCrosses" : 1000
+        },
+        "foto_id": "",
+        "award": {"money": 5000},
+        "index": 1
+    },
+    {
+        "name":"Продать мед",   
+        "level": 1,
+        "description": "2 что то там",
+        "condition": {
+            "totalCrosses" : 1000
+        },
+        "foto_id": "",
+        "award": {"money": 5000},
+        "index": 2
+    }
+]

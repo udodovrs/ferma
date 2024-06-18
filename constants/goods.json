@@ -1,0 +1,141 @@
+[
+    {
+        "name": "🍓Клубника",
+        "seeds": "🍓Рассада клубники",
+        "kostSeeds": 400,
+        "costBuy": 20,
+        "costSale": 15,
+        "level": 0,
+        "earn": 1,       
+        "value": 0,
+        "index": 0,
+        "time": 4
+    }, 
+    {
+        "name": "🥒Огурцы",
+        "seeds": "🥒Семена огурцов",
+        "kostSeeds": 400,
+        "costBuy": 20,
+        "costSale": 15,
+        "level": 0,
+        "earn": 1,
+        "index": 1,
+        "time": 4  
+    },
+    {
+        "name": "🍀Клевер",
+        "seeds": "🍀Семена клевера",
+        "kostSeeds": 400,
+        "costBuy": 20,
+        "costSale": 15,
+        "level": 0,
+        "earn": 1,
+        "index": 2,
+        "time": 4 
+    },
+    {
+        "name": "🌾Пшено",
+        "seeds": "🌾Просо для пшена",
+        "kostSeeds": 400,
+        "costBuy": 20,
+        "costSale": 15,
+        "level": 0,
+        "earn": 1,
+        "index": 3,
+        "time": 4 
+    },
+    {
+        "name": "🍅Помидоры",
+        "seeds": "🍅Рассада помидор",
+        "kostSeeds": 400,
+        "costBuy": 20,
+        "costSale": 15,
+        "level": 0,
+        "earn": 1,
+        "index": 4,
+        "time": 4 
+    },
+    {
+        "name": "🥛Молоко",
+        "costBuy": 20,
+        "costSale": 15,
+        "level": 0,
+        "earn": 1,
+        "index": 5
+    },
+    {
+        "name": "🥔Картофель",
+        "seeds": "🥔Семеной картфель",
+        "kostSeeds": 400,
+        "costBuy": 20,
+        "costSale": 15,
+        "level": 0,
+        "earn": 1,
+        "index": 6,
+        "time": 4
+    },
+    {
+        "name": "🍆Баклажаны",
+        "seeds": "🍆Рассада баклажан",
+        "kostSeeds": 400,
+        "costBuy": 20,
+        "costSale": 15,
+        "level": 0,
+        "earn": 1,
+        "index": 7,
+        "time": 4
+    },
+    {
+        "name": "🥕Морковь",
+        "seeds": "🥕Семена моркови",
+        "kostSeeds": 400,
+        "costBuy": 20,
+        "costSale": 15,
+        "level": 0,
+        "earn": 1,
+        "index": 8,
+        "time": 4
+    },
+    {
+        "name": "🥦Брокколи",
+        "seeds": "🥦Семена брокколи",
+        "kostSeeds": 400,
+        "costBuy": 20,
+        "costSale": 15,
+        "level": 0,
+        "earn": 1,
+        "index": 9,
+        "time": 4
+    },
+    {
+        "name": "🧅Лук",
+        "seeds": "🧅Лук севок",
+        "kostSeeds": 400,
+        "costBuy": 20,
+        "costSale": 15,
+        "level": 0,
+        "earn": 1,
+        "index": 10,
+        "time": 4
+    },
+    {
+        "name": "🌶️Перец чили",
+        "seeds": "🌶️Семена перца чили",
+        "kostSeeds": 400,
+        "costBuy": 20,
+        "costSale": 15,
+        "level": 0,
+        "earn": 1,
+        "index": 11,
+        "time": 4
+    },
+    {
+        "name": "𓆰Гусиный пух",       
+        "costBuy": 20,
+        "costSale": 15,
+        "level": 0,
+        "earn": 1,        
+        "index": 12
+        
+    }
+]

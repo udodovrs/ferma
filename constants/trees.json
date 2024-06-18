@@ -1,0 +1,47 @@
+[
+    {
+        "name": "🍎Яблоня",        
+        "produce": 0,
+        "cost": 1000,       
+        "level": 1,
+        "earn": 1,        
+        "index": 0,
+        "time": 4
+    }, 
+    {
+        "name": "🍒Вишня",        
+        "produce": 0,
+        "cost": 1000,       
+        "level": 1,
+        "earn": 1,        
+        "index": 1,
+        "time": 4
+    }, 
+    {
+        "name": "🍐Груша",        
+        "produce": 0,
+        "cost": 1000,       
+        "level": 1,
+        "earn": 1,        
+        "index": 2,
+        "time": 4
+    }, 
+    {
+        "name": "🟣Слива",        
+        "produce": 0,
+        "cost": 1000,       
+        "level": 1,
+        "earn": 1,        
+        "index": 3,
+        "time": 4
+    }, 
+    {
+        "name": "🍑Абрикос",        
+        "produce": 0,
+        "cost": 1000,       
+        "level": 1,
+        "earn": 1,        
+        "index": 4,
+        "time": 4
+    }
+]

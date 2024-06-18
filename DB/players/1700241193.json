@@ -1,0 +1,29 @@
+{
+  "id": 1700241193,
+  "money": 0,
+  "storage": {},
+  "seeds": {},
+  "myWorks": [],
+  "sendCheck": {
+    "autor_id": 1700241193,
+    "codeWord": "З7ДХИЩЭ",
+    "completed": false,
+    "foto_1_id": "",
+    "foto_2_id": "",
+    "value": 0
+  },
+  "codeWords": [
+    "З7ДХИЩЭ"
+  ],
+  "onCheck": "",
+  "level": 1,
+  "totalCrosses": 0,
+  "grund": [],
+  "corrals": [],
+  "crosses": 0,
+  "task": 0,
+  "garden": {},
+  "sideTasks": [
+    1
+  ]
+}
